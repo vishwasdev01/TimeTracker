@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  check_out_time: 2023-05-29 13:30:08
+  user: one
+
+two:
+  check_out_time: 2023-05-29 13:30:08
+  user: two
